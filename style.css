@@ -1,0 +1,17 @@
+/* Put your css in here */
+.ok {
+  color:greenyellow;
+}
+.nok {
+  color:crimson;
+}
+
+.ok2 {
+  border:solid;
+  border-color:greenyellow;
+}
+.nok2 {
+  border:solid;
+  border-color:crimson;
+}
+
